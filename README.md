@@ -6,3 +6,15 @@ The course online covers many C++ topics, including functions, pointers and refe
 Each folder in this repository contains my solution for the challenges of the section that provided challenges.\
 Section 4: Getting Started \
 Section 6: Variables and constants \
+Section 7: Arrays and Vectors \
+Section 8: Statements and Operators \
+Section 9: Controlling Program Flow \
+Section 10: Characters and Strings \
+Section 11: Functions \
+Section 12: Pointers and References \
+Section 13: OOP \
+Section 14: Operator Overloading \
+Section 15: Inheritance \
+Section 16: Polymorphism \
+Section 17: Smart Pointers \
+Section 18: Exception Handling
