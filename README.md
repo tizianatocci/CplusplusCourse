@@ -17,4 +17,8 @@ Section 14: Operator Overloading \
 Section 15: Inheritance \
 Section 16: Polymorphism \
 Section 17: Smart Pointers \
-Section 18: Exception Handling
+Section 18: Exception Handling\
+Section 19: I/O Streams \
+Section 20: The Standard Template Library (STL) \
+Section 21: Lambda Expressions \
+Section 23: Enumerations 
